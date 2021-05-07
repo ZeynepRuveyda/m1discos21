@@ -6,6 +6,8 @@
 - Research interest: Medical science, Neuroscience, 
 - Current internship at CRI research lab citizen science conducting NLP on **Quantifed self forum**
 ```
-Hobbies: Travelling, feeding on books 
+Hobbies: 
+Travelling,
+feeding on books 
 
 ```
